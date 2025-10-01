@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munkh-Erdene</h1>
 <h3 align="center">A passionate software engineer</h3>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVtODN3ODRidHYxMWNta3Z6MHJwdGxuNDhzcnc1ZWVxZ3hwcDNudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif" width="400" alt="Coding GIF" />
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munkh-erdene050124&label=Profile%20views&color=0e75b6&style=flat" alt="munkh-erdene050124" /> </p>
 
 - 🌱 I’m currently learning **Web development, Game development etc**

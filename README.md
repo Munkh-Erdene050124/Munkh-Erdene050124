@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Munkh-Erdene</h1>
 <h3 align="center">A passionate software engineer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munkh-erdene050124&label=Profile%20views&color=0e75b6&style=flat" alt="munkh-erdene050124" /> </p>
 
 - 🌱 I’m currently learning **Web development, Game development etc**

@@ -2,8 +2,9 @@
 <h3 align="center">A passionate software engineer</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/codedex-LKvHJSPgCj4BjF1F5e)" width="400" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/LKvHJSPgCj4BjF1F5e/giphy.gif" alt="Coding GIF" width="400" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munkh-erdene050124&label=Profile%20views&color=0e75b6&style=flat" alt="munkh-erdene050124" /> </p>
 

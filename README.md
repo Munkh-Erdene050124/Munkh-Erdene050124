@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Munkh-Erdene</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate software engineer Student</h3>
 
-- 🌱 I’m currently learning **Web development, Game development etc**
+-  I’m currently learning **Web development, Game development etc**
 
-- 📫 How to reach me **munkherdeneb895@gmail.com**
+-  How to reach me **munkherdeneb895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
